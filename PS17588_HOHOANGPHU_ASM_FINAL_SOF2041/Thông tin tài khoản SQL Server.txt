@@ -1,0 +1,4 @@
+Account Sql Server Default:
+ - Username: sa
+ - Password: 123456
+ - Database name: DuAnMau
